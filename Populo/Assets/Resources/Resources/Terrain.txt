@@ -1,0 +1,16 @@
+{
+    terrains = TerrainModel[
+        {
+            tag = String("grassland"),
+            colors = Color[(110, 160, 70, 255), (90, 150, 70, 255), (130, 170, 70, 255)],
+        },
+	{
+            tag = String("plains"),
+            colors = Color[(255, 240, 140, 255), (255, 230, 120, 255), (240, 240, 140, 255)],
+        },
+	{
+            tag = String("sea"),
+            colors = Color[(70, 130, 230, 255)],
+        },
+    ]
+}

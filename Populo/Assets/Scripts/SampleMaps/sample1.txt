@@ -1,0 +1,18 @@
+﻿map = {
+	height = Int(5),
+	width = Int(5),
+	defaultTerrain = Terrain("sea"),
+    hexes = Hex[
+        {
+            coordinates = Coordinates(0, 0),
+            terrain = Terrain("grassland"),
+
+        }
+
+    ],
+	rivers = River[
+		{
+			
+		}
+	]
+}

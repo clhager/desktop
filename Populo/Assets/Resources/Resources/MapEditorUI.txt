@@ -1,0 +1,11 @@
+{
+	ui = UIModel {
+		name = String("UI Root"),
+		children = UIModel [
+			{
+				name = String("Layer Panel Container"),
+				 
+			}
+		]
+	}
+}

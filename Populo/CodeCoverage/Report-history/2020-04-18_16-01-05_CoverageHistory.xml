@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2020-04-18_16-01-05" tag="">
+  <assembly name="Scripts">
+    <class name="Coordinates" coveredlines="0" coverablelines="18" totallines="33" coveredbranches="0" totalbranches="0" />
+    <class name="FileTokenIterator" coveredlines="46" coverablelines="164" totallines="257" coveredbranches="0" totalbranches="0" />
+    <class name="Hex" coveredlines="0" coverablelines="9" totallines="23" coveredbranches="0" totalbranches="0" />
+    <class name="HexRender" coveredlines="0" coverablelines="62" totallines="86" coveredbranches="0" totalbranches="0" />
+    <class name="Main" coveredlines="0" coverablelines="4" totallines="18" coveredbranches="0" totalbranches="0" />
+    <class name="Read" coveredlines="1" coverablelines="5" totallines="28" coveredbranches="0" totalbranches="0" />
+    <class name="ReadLists" coveredlines="0" coverablelines="40" totallines="86" coveredbranches="0" totalbranches="0" />
+    <class name="ReadObjects" coveredlines="0" coverablelines="48" totallines="92" coveredbranches="0" totalbranches="0" />
+    <class name="ReadPrimitives" coveredlines="19" coverablelines="53" totallines="74" coveredbranches="0" totalbranches="0" />
+    <class name="ReadUtils" coveredlines="55" coverablelines="68" totallines="97" coveredbranches="0" totalbranches="0" />
+    <class name="Util" coveredlines="3" coverablelines="24" totallines="44" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="TestEditor">
+    <class name="Tests.TestFileTokenIterator" coveredlines="0" coverablelines="129" totallines="202" coveredbranches="0" totalbranches="0" />
+    <class name="Tests.TestReadLists" coveredlines="0" coverablelines="21" totallines="70" coveredbranches="0" totalbranches="0" />
+    <class name="Tests.TestReadObjects" coveredlines="0" coverablelines="40" totallines="76" coveredbranches="0" totalbranches="0" />
+    <class name="Tests.TestReadPrimitives" coveredlines="3" coverablelines="74" totallines="149" coveredbranches="0" totalbranches="0" />
+    <class name="Tests.TestReadUtils" coveredlines="0" coverablelines="29" totallines="67" coveredbranches="0" totalbranches="0" />
+    <class name="Tests.TestUtils" coveredlines="6" coverablelines="31" totallines="63" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>

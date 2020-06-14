@@ -1,0 +1,18 @@
+﻿colorMap = ColorMap[
+    {
+        tag = String("terrain_grasslands_green_1"),
+        color = Color(20, 120, 20, 255)
+    },
+	{
+        tag = String("terrain_grasslands_green_2"),
+        color = Color(60, 140, 60, 255)
+    },
+	{
+        tag = String("terrain_plains_beige_1"),
+        color = Color(220, 170, 60, 255)
+    },
+	{
+        tag = String("terrain_plains_beige_2"),
+        color = Color(240, 200, 90, 255)
+    }
+]

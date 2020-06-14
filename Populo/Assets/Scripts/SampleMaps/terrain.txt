@@ -1,0 +1,19 @@
+﻿terrainMap = Terrain[
+    {
+        tag = String("grassland"),
+		terrain = {
+			type = Type(land),
+			possibleColors = Color[ (20, 120, 20, 255), (60, 140, 60, 255) ],
+		}
+    },
+	{
+        tag = String("HILLS")
+    },
+	{
+        tag = String("MOUNTAINS")
+		feature = Feature("MOUNTAIN")
+    },
+	{
+		tag = String("sea")
+	}
+]
